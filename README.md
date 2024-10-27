@@ -1,10 +1,13 @@
 # ICPUNO
 
 ICPUNO is a decentralized, multiplayer UNO card game built on the Internet Computer (ICP), featuring a Rust-based backend and a modern frontend using Next.js and Tailwind CSS. With Internet Identity for secure authentication, ICPUNO provides a seamless, decentralized gaming experience entirely hosted on ICP.
-
+[Demo vide
 ## Overview
 
 ICPUNO brings the classic UNO card game to the decentralized web, utilizing the Internet Computer (ICP) for both backend and frontend components. This setup ensures high performance, scalability, and a user-friendly interface. Authentication is managed through Internet Identity, enabling secure, password-free login. 
+
+[Watch the demo video](https://drive.google.com/file/d/1bCEuH9q7sKjDCcwV_padcFWYAz_HOcec/view?usp=sharing)
+
 
 ### Key Technologies
 - **Backend**: Rust for high performance and reliability.
